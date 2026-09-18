@@ -1,0 +1,5 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "aetherx-mcp",
+  "description": "Predictive port congestion, ETA delay and freight volatility signals for 16 global ports - consumable by Claude, Cursor, VS Code and custom LLM agents."
+}

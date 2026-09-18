@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "aetherx-mcp": {
+      "type": "streamable-http",
+      "url": "https://aether-x-oracle-production.up.railway.app/mcp"
+    }
+  }
+}
